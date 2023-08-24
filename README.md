@@ -1,3 +1,4 @@
+![adding badge](https://github.com/wagslane/go-rabbitmq/workflows/ci.yml/badge.svg)
 # learn-cicd-starter (Notely)
 
 TESTING
